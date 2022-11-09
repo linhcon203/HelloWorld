@@ -1,3 +1,10 @@
+console.log("1")
+console.log("2")
+console.log("3")
+console.log("abc")
+console.log("xyz")
+console.log("erd")
+console.log("farmework")
 console.log("HelloWorld")
 console.log("HelloWorld")
-console.log("HelloWorld")
+
