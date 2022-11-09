@@ -1,4 +1,4 @@
-console.log("HelloWorld")
+console.log("1")
 
 
 let particles = [];
